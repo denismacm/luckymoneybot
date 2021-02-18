@@ -1,0 +1,2 @@
+# luckymoneybot
+Lucky Money Bot
