@@ -7,7 +7,7 @@ Bau Cua Ca Cop (gourd-crab-fish-tiger) is a game from my fond childhood memories
 
 Because of my ambition and desire to forge this game that appeared to be nowhere online, I built this bot using Python programming, Discord API and JSON. I also used REPL.IT to host my bot.
 
-Currently, you can use this link to add the bot to your own server: https://discord.com/api/oauth2/authorize?client_id=805731599005122580&permissions=264256&scope=bot (Be sure to use the command !lm help)
+Currently, you can use this link to add the bot to your own server: https://discord.com/api/oauth2/authorize?client_id=805731599005122580&permissions=272448&scope=bot (Be sure to use the command !lm help)
 
 I have also created a server for the bot itself at https://discord.gg/ETVvj7ya6t.
 
